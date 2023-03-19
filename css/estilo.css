@@ -1,0 +1,17 @@
+body{
+    background-color: #000ff7f;
+}
+h1 {
+    font-family: Arial;
+    text-align: center;
+}
+#imagem{
+    width: 410px;
+    height: 420px;
+    padding: auto;
+}
+p{
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+}
