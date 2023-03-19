@@ -1,5 +1,5 @@
 body{
-    background-color: #000ff7f;
+    background-color: rgb(65, 173, 114);
 }
 h1 {
     font-family: Arial;
@@ -8,7 +8,7 @@ h1 {
 #imagem{
     width: 410px;
     height: 420px;
-    padding: auto;
+    margin-left: 430px;
 }
 p{
     font-family: arial;
